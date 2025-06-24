@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shadeko Racheal Mosunmade | Web Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Shadeko Racheal Mosunmade</h1>
+    <p class="title">Web Developer</p>
+  </header>
+
+  <section class="about">
+    <img src="profile.jpg" alt="Shadeko Racheal" class="profile-pic" />
+    <h2>About Me</h2>
+    <p>
+      I am a dedicated web developer with over 5 years of experience in website development, management, and SEO optimization. I specialize in creating beautiful, functional websites that help businesses establish a strong global presence. My passion lies in transforming ideas into digital platforms that speak directly to audiences and drive real-world impact.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Tech Stack / Skills</h2>
+    <ul>
+      <li>WordPress</li>
+      <li>PHP</li>
+      <li>HTML, CSS</li>
+      <li>Basic JavaScript</li>
+      <li>Elementor</li>
+      <li>WooCommerce</li>
+      <li>cPanel</li>
+      <li>SEO Optimization</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Portfolio Projects</h2>
+    <div class="project">
+      <h3>Streamline Digital</h3>
+      <a href="https://streamlinedigital.com.ng" target="_blank">streamlinedigital.com.ng</a>
+      <p>A digital marketing and web development agency site built using WordPress, PHP, CSS, Elementor, and plugins — all deployed and managed via cPanel.</p>
+    </div>
+    <div class="project">
+      <h3>The After Party Seattle</h3>
+      <a href="https://theafterpartyseattle.com" target="_blank">theafterpartyseattle.com</a>
+      <p>A vibrant nightclub website based in Seattle, USA. Designed with WordPress, PHP, HTML, CSS, JavaScript, and Elementor.</p>
+    </div>
+    <div class="project">
+      <h3>SunEast Nigeria</h3>
+      <a href="https://suneastng.com" target="_blank">suneastng.com</a>
+      <p>An e-commerce platform for a Japanese affiliate company. Developed using WordPress themes, PHP, Elementor, and plugin integrations.</p>
+    </div>
+    <div class="project">
+      <h3>Champions Tutor</h3>
+      <a href="https://championstutor.com.ng" target="_blank">championstutor.com.ng</a>
+      <p>An academic tutoring website developed with WordPress, Elementor, and CSS. Designed to help families find expert tutors easily and quickly.</p>
+    </div>
+  </section>
+
+  <footer>
+    <h2>Contact</h2>
+    <p>
+      <a href="https://github.com/Racheal-Shad" target="_blank">GitHub</a> |
+      <a href="https://www.linkedin.com/in/racheal-shadeko" target="_blank">LinkedIn</a>
+    </p>
+  </footer>
+</body>
+</html>
